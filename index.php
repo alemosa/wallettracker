@@ -1,6 +1,6 @@
 <html>
 <head></head>
 <?php
-require('./index.php');
+require('./dbix.php');
 ?>
 </html>
